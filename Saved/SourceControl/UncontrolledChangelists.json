@@ -1,0 +1,53 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/unreal_Project/RPG/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/unreal_Project/RPG/Content/RPG_Character/Animations/Crouch/Crouch_Idle.uasset",
+				"D:/unreal_Project/RPG/Content/RPG_Character/Animations/Crouch/Crouh_Walk.uasset",
+				"D:/unreal_Project/RPG/Content/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
+				"D:/unreal_Project/RPG/Content/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"D:/unreal_Project/RPG/Content/RPG_Character/Animations/Locomotion/Locomotion_BlendSpace1D.uasset",
+				"D:/unreal_Project/RPG/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset",
+				"D:/unreal_Project/RPG/Content/RPG_Character/Animations/ABP_RPGCharacter.uasset",
+				"D:/unreal_Project/RPG/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/unreal_Project/RPG/Content/RPG_Character/Animations/Crouch/CrouchBlendSpace1D.uasset",
+				"D:/unreal_Project/RPG/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"D:/unreal_Project/RPG/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/unreal_Project/RPG/Content/ThirdPerson/Input/Actions/IA_Move.uasset",
+				"D:/unreal_Project/RPG/Content/RPG_Character/Animations/Lean/Lean_Left.uasset",
+				"D:/unreal_Project/RPG/Content/RPG_Character/Animations/Lean/Lean_Right.uasset",
+				"D:/unreal_Project/RPG/Content/RPG_Character/Animations/Lean/LeanBlendSpace1D.uasset",
+				"D:/unreal_Project/RPG/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_Blue.uasset",
+				"D:/unreal_Project/RPG/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_Blue.uasset",
+				"D:/unreal_Project/RPG/Content/RPG_Character/Animations/Vaulting/VaultOver.uasset",
+				"D:/unreal_Project/RPG/Content/RPG_Character/Animations/Vaulting/VaultOver_Montage.uasset",
+				"D:/unreal_Project/RPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/NI/119N30T9UPR66P85JMR06N.uasset",
+				"D:/unreal_Project/RPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/II/51PEHFHX9RJW5EOXGKR9B4.uasset",
+				"D:/unreal_Project/RPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"D:/unreal_Project/RPG/Content/RPG_Character/Animations/Assassination/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"D:/unreal_Project/RPG/Content/RPG_Character/Animations/Assassination/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"D:/unreal_Project/RPG/Content/RPG_Character/Animations/Assassination/Ue4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"D:/unreal_Project/RPG/Content/RPG_Character/Animations/Assassination/Ue4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"D:/unreal_Project/RPG/Content/RPG_Character/Animations/Assassination/Paired_Knife_Stealth_KidneyAndNeck_Att_Montage.uasset",
+				"D:/unreal_Project/RPG/Content/RPG_Character/Animations/Assassination/Paired_Knife_Stealth_KidneyAndNeck_Vic_Montage.uasset",
+				"D:/unreal_Project/RPG/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
+				"D:/unreal_Project/RPG/Content/ThirdPerson/Input/Actions/IA_Assassin.uasset",
+				"D:/unreal_Project/RPG/Content/ThirdPerson/Input/Actions/IA_Assasin.uasset",
+				"D:/unreal_Project/RPG/Content/Blueprints/BP_Dummy.uasset",
+				"D:/unreal_Project/RPG/Content/Blueprints/BPI_Assasination.uasset",
+				"D:/unreal_Project/RPG/Content/Blueprints/BP_Dummy2.uasset",
+				"D:/unreal_Project/RPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/V6/G8EF812YK32QQ51RIQFZ55.uasset",
+				"D:/unreal_Project/RPG/Content/UI/WB_AssassinatePrompt.uasset",
+				"D:/unreal_Project/RPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/K0/CLS7B3ADSMW9108A0V9WFR.uasset",
+				"D:/unreal_Project/RPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/M8/YFHTRWK5ZE5N1S6263VIB8.uasset",
+				"D:/unreal_Project/RPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/TT/CC6A7SOROLOSQS7C06ZS6B.uasset",
+				"D:/unreal_Project/RPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/03/2OOQ5E6YK60RYYY4ZWCYHM.uasset",
+				"D:/unreal_Project/RPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/0S/ZFDEO2BCS6W6PR6XJHFOTT.uasset"
+			]
+		}
+	]
+}
